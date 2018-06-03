@@ -19,5 +19,5 @@
 - https://inass-helmy.github.io/Feed-Reader-Testing/
 
 ## 4. Dependencies
-- Code is written in `HTML`, `CSS`, `JavaScript`, and `jQuery`.
+- Code is written in `HTML`, `CSS` and `JavaScript`.
 - Framework used for unit testing is [Jasmine](https://jasmine.github.io/).
