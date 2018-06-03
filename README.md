@@ -16,7 +16,7 @@
 - You should recieve a message from jasmine testing tool that you have "7 specs, 0 failures" for all the app tests.
 
 ## 3. App page
--https://inass-helmy.github.io/Feed-Reader-Testing/
+- https://inass-helmy.github.io/Feed-Reader-Testing/
 
 ## 4. Dependencies
 - Code is written in `HTML`, `CSS`, `JavaScript`, and `jQuery`.
