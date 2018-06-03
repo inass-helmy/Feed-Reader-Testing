@@ -12,11 +12,11 @@
 - The asked task was to create test suits for the Feed Reader App. using jasmine testing tool.
 
 ## 2. Instructions
-- In order to have this page up and running just click [here]() or clone the project from the [repository](https://github.com/inass-helmy/Feed-Reader-Testing).
+- In order to have this page up and running just click [here](https://inass-helmy.github.io/Feed-Reader-Testing/) or clone the project from the [repository](https://github.com/inass-helmy/Feed-Reader-Testing).
 - You should recieve a message from jasmine testing tool that you have "7 specs, 0 failures" for all the app tests.
 
 ## 3. App page
--
+-https://inass-helmy.github.io/Feed-Reader-Testing/
 
 ## 4. Dependencies
 - Code is written in `HTML`, `CSS`, `JavaScript`, and `jQuery`.
